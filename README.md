@@ -82,3 +82,5 @@ https://devcenter.heroku.com/articles/procfile
 
 > mvn spring-boot:run
 
+Access http://localhost:8080/swagger-ui.html
+
