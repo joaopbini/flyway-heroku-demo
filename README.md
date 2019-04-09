@@ -68,3 +68,17 @@ running the following command:
 The variable will include `?user=<user>&password=<password>` parameters, but 
 `JDBC_DATABASE_USERNAME` and `JDBC_DATABASE_PASSWORD` environment variables will 
 also be set when possible.
+
+## More Information
+https://devcenter.heroku.com/articles/deploying-spring-boot-apps-to-heroku
+
+https://devcenter.heroku.com/articles/connecting-to-relational-databases-on-heroku-with-java
+
+https://devcenter.heroku.com/articles/procfile
+
+## How to run locally
+
+> mvn clean install
+
+> mvn spring-boot:run
+
